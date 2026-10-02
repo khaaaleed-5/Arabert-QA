@@ -1,15 +1,3 @@
----
-title: AraBERT Arabic QA
-emoji: 🔎
-colorFrom: blue
-colorTo: green
-sdk: gradio
-app_file: app.py
-pinned: false
-models:
-- Khaaaleed5/arabert-qa
----
-
 # AraBERT Arabic Question Answering
 
 Fine-tuning [AraBERT v0.2](https://huggingface.co/aubmindlab/bert-base-arabertv02) for extractive Arabic question answering using the [ArabicaQA](https://huggingface.co/datasets/abdoelsayed/ArabicaQA) dataset.
